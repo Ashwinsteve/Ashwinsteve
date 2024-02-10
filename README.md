@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashwinsteve
+- 👋 Hi, I’m @Ashwin.K
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Computer Science Engineering
 - 📫 My LinkedIn account -->https://www.linkedin.com/in/ashwin-k-409872220
